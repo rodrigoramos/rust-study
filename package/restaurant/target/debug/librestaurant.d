@@ -1,0 +1,1 @@
+/home/rramos/git/rust/package/restaurant/target/debug/librestaurant.rlib: /home/rramos/git/rust/package/restaurant/src/front_of_house/hosting.rs /home/rramos/git/rust/package/restaurant/src/front_of_house.rs /home/rramos/git/rust/package/restaurant/src/lib.rs
